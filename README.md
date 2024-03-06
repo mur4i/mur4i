@@ -1,7 +1,7 @@
 <h2 align="left">Welcome!</h2>
 
 ###
-<p>locales{</p>
+<p><b>locales</b> {</p>
 
 `pt-br`
 Olá! Sou Lucas, também conhecido como Murai. Desenvolvedor web full-stack com experiência em FiveM e outras plataformas de jogos. Apaixonado por criar soluções digitais inovadoras e personalizadas.
