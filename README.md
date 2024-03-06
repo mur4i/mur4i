@@ -2,10 +2,10 @@
 
 ###
 
-Português:
+`Português:`
 Olá! Sou Lucas, também conhecido como Murai. Desenvolvedor web full-stack com experiência em FiveM e outras plataformas de jogos. Apaixonado por criar soluções digitais inovadoras e personalizadas.
 
-English:
+`English:`
 Hello! I'm Lucas, also known as Murai. Full-stack web developer with experience in FiveM and other gaming platforms. Passionate about creating innovative and customized digital solutions.
 
 ###
