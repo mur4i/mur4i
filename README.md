@@ -15,7 +15,7 @@ Hello! I'm Lucas, also known as Murai. Full-stack web developer with experience 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mur4i&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
+### Knowledge
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="30" alt="lua logo"  />
@@ -31,7 +31,7 @@ Hello! I'm Lucas, also known as Murai. Full-stack web developer with experience 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
 </div>
 
-###
+### Social
 
 <div align="left">
   <a href="https://www.youtube.com/channel/UCWsFWhFqc4L0I5DMK5ZYF1w" target="_blank">
@@ -41,11 +41,3 @@ Hello! I'm Lucas, also known as Murai. Full-stack web developer with experience 
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/mur4i/mur4i/output/snake.svg" alt="Snake animation" />
-
-###
