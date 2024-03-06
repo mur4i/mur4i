@@ -1,6 +1,4 @@
-<h2 align="left">Olá, eu sou o Murai, seja bem vindo ao meu perfil!</h2>
-<p align="left">Hello, I'm Murai, welcome to my profile!</p>
-
+<h2 align="left">Welcome!</h2>
 ###
 
 Português:
