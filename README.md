@@ -15,7 +15,7 @@ Hello! I'm Lucas, also known as Murai. Full-stack web developer with experience 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mur4i&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-### Knowledge
+### Main Skills
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="30" alt="lua logo"  />
