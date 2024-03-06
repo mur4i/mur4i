@@ -5,11 +5,14 @@
 <p align="left">Hello, I'm Murai, welcome to my profile!</p>
 
 ###
+
 ## Português:
 Olá! Sou Lucas, também conhecido como Murai. Desenvolvedor web full-stack com experiência em FiveM e outras plataformas de jogos. Apaixonado por criar soluções digitais inovadoras e personalizadas.
 
 ## English:
 Hello! I'm Lucas, also known as Murai. Full-stack web developer with experience in FiveM and other gaming platforms. Passionate about creating innovative and customized digital solutions.
+
+###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mur4i&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false" height="150" alt="stats graph"  />
