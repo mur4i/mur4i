@@ -1,0 +1,13 @@
+name: Testimonial
+description: Leave a testimonial on my profile. It shows up after I approve it.
+title: "testimonial"
+labels: ["testimonial"]
+body:
+  - type: textarea
+    id: message
+    attributes:
+      label: Message
+      description: Up to 240 characters. Your avatar and @ go next to it, and your car starts driving through the city.
+      placeholder: What was it like to work with me?
+    validations:
+      required: true
