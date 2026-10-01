@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "login": "gvs006",
+    "message": "O erro dele foi alocar memória infinita para quem era apenas uma variável temporária. Error: Maximum call stack size exceeded at Coracao.amarNovamente() Fez deploy de sentimentos em produção numa sexta-feira às 18h.",
+    "date": "2026-10-01",
+    "issue": 1
+  }
+]
