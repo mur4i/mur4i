@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="38" viewBox="0 0 96 38" role="img" aria-label="discord">
+<rect x="0.5" y="0.5" width="95" height="37" rx="10" fill="#ffffff" stroke="#e4e4e7"/>
+<circle cx="17" cy="19" r="3" fill="#059669"/>
+<style>text { font: 500 13px ui-monospace, SFMono-Regular, "JetBrains Mono", Menlo, Consolas, monospace; fill: #09090b; }</style>
+<text x="27" y="23.5">discord</text>
+</svg>
